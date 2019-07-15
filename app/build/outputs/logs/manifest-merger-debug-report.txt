@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\26294104ef9ec7eb9998b775bbb3f89f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\790aca992763ef131bdd314e3c06fe91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\bb7cf47e98e90fe75ac5467f33cab6b7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\f25055a0e9da5f7300a54be1af5afe96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\3930f80375eaac4c9e5d4b9a75afeaab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\46e58bccf439ae71f17d1a346176e23d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\6f5a0ab4b8331568c82fca2a139c47d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\f57f8706e9057ddbf4f9f4c83f809a6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\ad8d4edcfdd8b958049cff7f47fbf871\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\8613d80987b1bc96b46530589f6172ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a501140c1c91ccae1f1cbb30aa0b3f10\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\519d2b9a289ac0e7223f8fd44202d55c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\dc1f7958f0221aa8837c6348f6a0cacb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5b54e3eeee9e818acd10a3234020ed47\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\6da104afba894c342d3589a03cd5adfd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\626cb735bd0435311f0cc6eb78d4eca5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\230786ebee0cd02cac5d7e3196dd1304\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\959fc9ce7b41261032d3b02ac6d4b802\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\922105cf9f22d1a4928c43e5f5ecc9cb\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\77630f982813d4270caeabd9ac844574\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\dabcf0c29db465db0580e1b42355644f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\2f023629d20a9a3f8481bc5d6711e3f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5dbbdae3064f9edbc2909ad4e608c53c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\350d6fe1dd778b44ba321c764ffd9f5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5aa68ebe991ea924de43972f6da515d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\3a0ff18391c63c65ca880c9d22716310\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\1f9e3315b3e26f27fd3390c4b6c180f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\c0e7bdef1080d4506e8a666bea1c7ccc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\86e247fa3757b1537acb651850f9049d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\d3cd80bb2349ffcd3b318aa03131172f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:7:22-73
+application
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:9:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\bb7cf47e98e90fe75ac5467f33cab6b7\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\bb7cf47e98e90fe75ac5467f33cab6b7\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\959fc9ce7b41261032d3b02ac6d4b802\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\959fc9ce7b41261032d3b02ac6d4b802\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\922105cf9f22d1a4928c43e5f5ecc9cb\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\922105cf9f22d1a4928c43e5f5ecc9cb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\959fc9ce7b41261032d3b02ac6d4b802\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:10:9-48
+activity#com.example.retrofitdemoa.activity.ShowWallPepar_Activity
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:18:9-78
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:18:19-66
+activity#com.example.retrofitdemoa.activity.RetrofitDemoAgainContainer
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:19:19-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.retrofitdemoa.MainActivity
+ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\26294104ef9ec7eb9998b775bbb3f89f\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\26294104ef9ec7eb9998b775bbb3f89f\AndroidManifest.xml:20:5-43
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\790aca992763ef131bdd314e3c06fe91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\790aca992763ef131bdd314e3c06fe91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\bb7cf47e98e90fe75ac5467f33cab6b7\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\bb7cf47e98e90fe75ac5467f33cab6b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\f25055a0e9da5f7300a54be1af5afe96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\f25055a0e9da5f7300a54be1af5afe96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\3930f80375eaac4c9e5d4b9a75afeaab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\3930f80375eaac4c9e5d4b9a75afeaab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\46e58bccf439ae71f17d1a346176e23d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\46e58bccf439ae71f17d1a346176e23d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\6f5a0ab4b8331568c82fca2a139c47d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\6f5a0ab4b8331568c82fca2a139c47d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\f57f8706e9057ddbf4f9f4c83f809a6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\f57f8706e9057ddbf4f9f4c83f809a6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\ad8d4edcfdd8b958049cff7f47fbf871\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\ad8d4edcfdd8b958049cff7f47fbf871\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\8613d80987b1bc96b46530589f6172ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\8613d80987b1bc96b46530589f6172ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a501140c1c91ccae1f1cbb30aa0b3f10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a501140c1c91ccae1f1cbb30aa0b3f10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\519d2b9a289ac0e7223f8fd44202d55c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\519d2b9a289ac0e7223f8fd44202d55c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\dc1f7958f0221aa8837c6348f6a0cacb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\dc1f7958f0221aa8837c6348f6a0cacb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5b54e3eeee9e818acd10a3234020ed47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5b54e3eeee9e818acd10a3234020ed47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\6da104afba894c342d3589a03cd5adfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\6da104afba894c342d3589a03cd5adfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\626cb735bd0435311f0cc6eb78d4eca5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\626cb735bd0435311f0cc6eb78d4eca5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\230786ebee0cd02cac5d7e3196dd1304\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\230786ebee0cd02cac5d7e3196dd1304\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\959fc9ce7b41261032d3b02ac6d4b802\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\959fc9ce7b41261032d3b02ac6d4b802\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\922105cf9f22d1a4928c43e5f5ecc9cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\922105cf9f22d1a4928c43e5f5ecc9cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\77630f982813d4270caeabd9ac844574\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\77630f982813d4270caeabd9ac844574\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\dabcf0c29db465db0580e1b42355644f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\dabcf0c29db465db0580e1b42355644f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\2f023629d20a9a3f8481bc5d6711e3f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\2f023629d20a9a3f8481bc5d6711e3f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5dbbdae3064f9edbc2909ad4e608c53c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5dbbdae3064f9edbc2909ad4e608c53c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\350d6fe1dd778b44ba321c764ffd9f5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\350d6fe1dd778b44ba321c764ffd9f5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5aa68ebe991ea924de43972f6da515d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\5aa68ebe991ea924de43972f6da515d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\3a0ff18391c63c65ca880c9d22716310\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\3a0ff18391c63c65ca880c9d22716310\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\1f9e3315b3e26f27fd3390c4b6c180f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\1f9e3315b3e26f27fd3390c4b6c180f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\c0e7bdef1080d4506e8a666bea1c7ccc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\c0e7bdef1080d4506e8a666bea1c7ccc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\86e247fa3757b1537acb651850f9049d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\86e247fa3757b1537acb651850f9049d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\d3cd80bb2349ffcd3b318aa03131172f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\d3cd80bb2349ffcd3b318aa03131172f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\texowave_user\Downloads\RetrofitDemoA\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\texowave_user\.gradle\caches\transforms-2\files-2.1\a4593a3d06a88ea67d102e93bde59c14\AndroidManifest.xml:9:13-64
